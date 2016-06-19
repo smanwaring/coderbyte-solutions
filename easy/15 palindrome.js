@@ -13,7 +13,6 @@ function Palindrome(str) {
     for (var i = str.length-1; i > -1; i--) {
         if (str[i] !== " ") {
     		 reversedString += str[i];
-        	 console.log(reversedString)
         }
     }
     
