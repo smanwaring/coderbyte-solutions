@@ -1,6 +1,7 @@
-//Have the function LetterChanges(str) take the str parameter being passed and modify it using the following algorithm. 
-//Replace every letter in the string with the letter following it in the alphabet (ie. c becomes d, z becomes a). 
-//Then capitalize every vowel in this new string (a, e, i, o, u) and finally return this modified string. 
+//Have the function FirstFactorial(num) take the num parameter being passed and return the factorial of it 
+//(e.g. if num = 4,return (4 * 3 * 2 * 1)). For the test cases, the range will be between 1 and 18.
+
+return (4 * 3 * 2 * 1)). For the test cases, the range will be between 1 and 18.
 
 
 function FirstFactorial(num) { 
